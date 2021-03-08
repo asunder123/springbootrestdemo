@@ -1,0 +1,29 @@
+server:
+ port : 8085
+
+table: 
+  traffic: 
+   load: 1
+   throughput: 0
+   networkIncoming: 0
+   networkOutgoing: 0
+  errors: 
+    errorsperminute: 9 
+    inferrorsperminute: 5 
+    networkerrorsminincoming: 2 
+    networkerrorsminoutgoing: 2 
+    httperrorcodespermin: 8 
+  latency:  
+   avresptime: 7 
+   avendtoendLatency: 9  
+   garbagecollection: 2 
+  saturation:  
+    cpuusagehm: 15 
+    cpuusagejvm: 35 
+    memoryhw: 25 
+    memoryheap: 15 
+    volumesusage: 25 
+    cpusteal: 05 
+    memoryswap: 05 
+    memorynonheap: 05
+

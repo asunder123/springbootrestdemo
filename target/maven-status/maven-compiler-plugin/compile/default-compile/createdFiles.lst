@@ -1,0 +1,5 @@
+com\capgemini\aggregator\service\AggregationFunctionServiceImpl.class
+com\capgemini\aggregator\properties\AggregationFunctionConfig.class
+com\capgemini\aggregator\service\AggregationFunctionSaturationMatrixImpl.class
+com\capgemini\aggregator\controller\AggregationFunctionController.class
+com\capgemini\aggregator\SpringBootDemoApplication.class
